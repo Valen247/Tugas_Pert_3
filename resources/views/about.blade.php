@@ -50,6 +50,18 @@
             </div>
         </nav>
         <center><h1>About Me</h1>
-        
+          <div class="mt-5">
+            <div class="row justify-content-center mx-5">
+              <h4>
+                My name is Alvin Valencia, I'm currently studying Information Systems at Universitas Pelitah harapan, as a student I'm a person that likes to learn something new. I'm confident in saying that i'm a fast learner, anything that i tried to learn i will learn it very quick. 
+                The reason I'm interested in Information Systems is because it's geting more and more important by the day, specifically in web development. Compare to a decade ago, there are way more smaller companies started by entrepreneurs around the world and all of them need some kind of website to improve their marketing.
+              </h4>
+              <h4>
+                Another thing I'm currently learning is Japanese language or 日本語(nihongo), before japanese it was English, I'm thankful to learn English since Pre-school and I'm quite confident of my English speaking, Listening, and Writting, the only thing that is needed for me is to broaden my vocabulary in English.
+                As for japanese I'm good at listening, ok at speaking, and currently studying on how to read kanji, which is the more advance written japanese.
+              </h4>
+              </div>
+            </div>
+          </div>
     </body>
 </html>
