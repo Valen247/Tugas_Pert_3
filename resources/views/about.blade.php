@@ -49,6 +49,7 @@
               </div>
             </div>
         </nav>
-        <center><h1>Profile</h1>
+        <center><h1>About Me</h1>
+        
     </body>
 </html>

@@ -49,6 +49,7 @@
               </div>
             </div>
         </nav>
-        <center><h1>Selamat Datang Ke Halaman Utama</h1>
+        <center><h1>Achievements</h1>
+        <center><h3>Currently have no notable Achievements</h3>
     </body>
 </html>

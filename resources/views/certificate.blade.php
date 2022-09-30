@@ -49,6 +49,27 @@
               </div>
             </div>
         </nav>
-        <center><h1>Selamat Datang Ke Halaman Utama</h1>
+        <center><h1>Certificates</h1>
+          <div class="container">
+            <div class="row">
+              <div class="col">
+                <img src="https://cdn.discordapp.com/attachments/873955007706300436/1025356369521541141/20220930_091350.jpg" class="img-fluid" alt="image">
+              </div>
+              <div class="col align-self-center">
+              <h3>
+                Certificate of Succesfully completed Certified Professional Program in Graphic Design at BINUS
+              </h3>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col">
+                <img src="https://cdn.discordapp.com/attachments/873955007706300436/1025355956885925888/unknown.png" class="img-fluid" alt="image">
+              </div>
+              <div class="col align-self-center">
+              <h3>
+                Certificate of Appreciation in participating KEYSTONE 2020
+              </h3>
+              </div>
+            </div>
     </body>
 </html>
