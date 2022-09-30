@@ -17,18 +17,18 @@ Route::get('/', function () {
     return view('profile');
 });
 
-Route::get('/', function () {
-    return view('certificate');
-});
-
-Route::get('/', function () {
+Route::get('/education', function () {
     return view('education');
 });
 
-Route::get('/', function () {
-    return view('profile');
+Route::get('/certificate', function () {
+    return view('certificate');
 });
 
-Route::get('/', function () {
-    return view('profile');
+Route::get('/experience', function () {
+    return view('experience');
+});
+
+Route::get('/achievement', function () {
+    return view('achievement');
 });
