@@ -50,31 +50,5 @@
             </div>
         </nav>
         <center><h1>Profile</h1>
-          <div class="container">
-            <div class="row">
-              <div class="col">
-                <img src="https://cdn.discordapp.com/attachments/873955007706300436/1025344390614503504/20200111_093000.jpg" class="img-fluid" alt="image">
-              </div>
-              <div class="col">
-              <h3>
-                <li class="profile">
-                  Nama : Alvin Valencia
-                </li>
-                <li>
-                  Age : 23
-                </li>
-                <li>
-                  Gender : Male
-                </li>
-                <li>
-                  Contact Number : Indonesia (+62) 81371290706
-                </li>
-                <li>
-                  Email : alvin-99@live.com
-                </li>
-              </h3>
-              </div>
-            </div>
-          </div>
     </body>
 </html>

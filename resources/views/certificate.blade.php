@@ -42,6 +42,9 @@
                   <li class="nav-item">
                     <a class="nav-link active" aria-current="page" href="/achievement">Achievements</a>
                   </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="/about">About Me</a>
+                  </li>
                 </ul>
               </div>
             </div>

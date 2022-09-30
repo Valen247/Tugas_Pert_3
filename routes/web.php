@@ -32,3 +32,7 @@ Route::get('/experience', function () {
 Route::get('/achievement', function () {
     return view('achievement');
 });
+
+Route::get('/about', function () {
+    return view('about');
+});
