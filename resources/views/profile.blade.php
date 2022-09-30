@@ -55,9 +55,9 @@
               <div class="col">
                 <img src="https://cdn.discordapp.com/attachments/873955007706300436/1025344390614503504/20200111_093000.jpg" class="img-fluid" alt="image">
               </div>
-              <div class="col">
+              <div class="col align-self-center">
               <h3>
-                <li class="profile">
+                <li>
                   Nama : Alvin Valencia
                 </li>
                 <li>

@@ -49,6 +49,38 @@
               </div>
             </div>
         </nav>
-        <center><h1>Selamat Datang Ke Halaman Utama</h1>
+        <center><h1>Education history</h1>
+          <div class="container">
+            <div class="row">
+              <div class="col">
+                <img src="https://cdn.discordapp.com/attachments/873955007706300436/1025351949811458119/Untitled-design.png" class="img-fluid" alt="image">
+              </div>
+              <div class="col align-self-center">
+              <h3>
+                Primary School and 2 years of Middle School at Sekolah Mutiara Harapan
+              </h3>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col">
+                <img src="https://cdn.discordapp.com/attachments/873955007706300436/1025351950172172338/WR-Supratman.png" class="img-fluid" alt="image">
+              </div>
+              <div class="col align-self-center">
+              <h3>
+                Last year of Middle School and High School at W.R Supratman 1 Medan
+              </h3>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col">
+                <img src="https://cdn.discordapp.com/attachments/873955007706300436/1025352725501837374/UPH_LOGO.svg.png" class="img-fluid" alt="image">
+              </div>
+              <div class="col align-self-center">
+              <h3>
+                Currently Studying Information Systems at Universitas Pelitah Harapan
+              </h3>
+              </div>
+            </div>
+          </div>
     </body>
 </html>
